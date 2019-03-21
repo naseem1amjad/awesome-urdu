@@ -27,3 +27,15 @@ Please feel free to create [pull requests](https://github.com/urduhack/awesome-u
 - [ur.oxforddictionaries.com](https://ur.oxforddictionaries.com/) - Oxford Dictionary
 - [English Urdu Dictionary](http://www.urduword.com) - English Urdu Dictionary
 - [Urdu English Dictionary 2](http://www.urduenglishdictionary.org) - Urdu English Dictionary 2
+
+## Urdu Software
+
+- [Free Urdu Software](https://www.ajsoftpk.com/naseem_amjad/urdu/) - Urdu Software for windows
+
+## Urdu Text Editor
+
+- [Urdu Nigar Unicode](https://www.ajsoftpk.com/urdunigarunicode/download_urdu_nigar_unicode.html) - Free Urdu Editor
+
+## Online Urdu Game
+
+- [Phansi Ghar](https://www.urdujini.com/) - Play Online Urdu HangMan Game  @ urdujini.com
